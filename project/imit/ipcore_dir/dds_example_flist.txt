@@ -1,0 +1,15 @@
+# Output products list for <dds_example>
+_xmsgs\pn_parser.xmsgs
+dds_example.asy
+dds_example.gise
+dds_example.ngc
+dds_example.sym
+dds_example.vhd
+dds_example.vho
+dds_example.xco
+dds_example.xise
+dds_example\doc\dds_compiler_v4_0_vinfo.html
+dds_example\doc\dds_ds558.pdf
+dds_example_flist.txt
+dds_example_readme.txt
+dds_example_xmdf.tcl
